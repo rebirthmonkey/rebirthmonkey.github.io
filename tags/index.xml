@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ruan HE</title>
-    <link>heruan.io/tags/</link>
+    <link>rebirthmonkey.github.io/tags/</link>
     <description>Recent content in Tags on Ruan HE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="heruan.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="rebirthmonkey.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

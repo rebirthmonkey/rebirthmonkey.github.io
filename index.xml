@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruan HE</title>
-    <link>heruan.io/</link>
+    <link>rebirthmonkey.github.io/</link>
     <description>Recent content on Ruan HE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Dec 1982 18:16:41 +0800</lastBuildDate>
     
-	<atom:link href="heruan.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="rebirthmonkey.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Beginning</title>
-      <link>heruan.io/posts/1982-12-14_beginning/</link>
+      <link>rebirthmonkey.github.io/posts/1982-12-14_beginning/</link>
       <pubDate>Tue, 14 Dec 1982 18:16:41 +0800</pubDate>
       
-      <guid>heruan.io/posts/1982-12-14_beginning/</guid>
-      <description>My beginning!</description>
+      <guid>rebirthmonkey.github.io/posts/1982-12-14_beginning/</guid>
+      <description>My beginning! My beginning!</description>
     </item>
     
   </channel>
