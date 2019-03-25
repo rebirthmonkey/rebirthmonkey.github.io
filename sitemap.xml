@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>heruan.io/posts/1982-12-14_beginning/</loc>
+    <lastmod>1982-12-14T18:16:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>heruan.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>heruan.io/posts/</loc>
+    <lastmod>1982-12-14T18:16:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>heruan.io/</loc>
+    <lastmod>1982-12-14T18:16:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>heruan.io/tags/</loc>
     <priority>0</priority>
   </url>
   
