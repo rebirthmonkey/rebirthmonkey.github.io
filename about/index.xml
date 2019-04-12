@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Who am I? on Ruan HE</title>
+    <link>rebirthmonkey.github.io/about/</link>
+    <description>Recent content in Who am I? on Ruan HE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Mar 2019 18:16:41 +0800</lastBuildDate>
+    
+	<atom:link href="rebirthmonkey.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
