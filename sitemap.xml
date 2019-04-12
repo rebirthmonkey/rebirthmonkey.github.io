@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>rebirthmonkey.github.io/</loc>
+    <lastmod>2019-03-30T18:16:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>rebirthmonkey.github.io/about/</loc>
+    <lastmod>2019-03-30T18:16:41+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>rebirthmonkey.github.io/posts/1982-12-14_beginning/</loc>
     <lastmod>1982-12-14T18:16:41+08:00</lastmod>
   </url>
@@ -14,12 +24,6 @@
   
   <url>
     <loc>rebirthmonkey.github.io/posts/</loc>
-    <lastmod>1982-12-14T18:16:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>rebirthmonkey.github.io/</loc>
     <lastmod>1982-12-14T18:16:41+08:00</lastmod>
     <priority>0</priority>
   </url>
