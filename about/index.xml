@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on </title>
-    <link>https://www.heruan.io/about/</link>
+    <link>http://www.heruan.io/about/</link>
     <description>Recent content in About on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Mar 2019 18:16:41 +0800</lastBuildDate>
     
-	<atom:link href="https://www.heruan.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.heruan.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
