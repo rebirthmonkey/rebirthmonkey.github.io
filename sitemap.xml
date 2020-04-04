@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://heruan.io/posts/2020/2020-04-04_life-marathon/</loc>
+    <lastmod>2020-04-04T21:29:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://heruan.io/posts/1982/1982-12-14_begin/</loc>
+    <lastmod>2020-04-04T15:32:19+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://heruan.io/about/</loc>
     <lastmod>2019-03-30T18:16:41+08:00</lastmod>
   </url>
@@ -19,6 +29,12 @@
   
   <url>
     <loc>http://heruan.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://heruan.io/posts/</loc>
+    <lastmod>2020-04-04T21:29:22+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
