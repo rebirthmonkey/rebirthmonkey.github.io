@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economy on Ruan</title>
+    <link>https://rebirthmonkey.github.io/tags/economy/</link>
+    <description>Recent content in Economy on Ruan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 22:10:40 +0800</lastBuildDate>
+    <atom:link href="https://rebirthmonkey.github.io/tags/economy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What did we learn from 2023?</title>
+      <link>https://rebirthmonkey.github.io/posts/2024-01-01_what-we-learn-from-2023/</link>
+      <pubDate>Mon, 01 Jan 2024 22:10:40 +0800</pubDate>
+      <guid>https://rebirthmonkey.github.io/posts/2024-01-01_what-we-learn-from-2023/</guid>
+      <description>What did we learn from 2023? What should we prepare for in 2024?&#xA;2023 was considered the worst year since the last 30 years for China. From the macroscopic viewpoint, the GDP growth rate was limited to 5.2% (the lowest since China’s “reform and opening-up”). From the micro perspective, I find that the layoffs have turned into a widespread trend which was absolutely not the case previously.&#xA;My generation is considered as the generation that reaps the benefits of the times.</description>
+    </item>
+  </channel>
+</rss>
