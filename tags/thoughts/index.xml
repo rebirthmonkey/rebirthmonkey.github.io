@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ruan</title>
-    <link>https://rebirthmonkey.github.io/posts/</link>
-    <description>Recent content in Posts on Ruan</description>
+    <title>Thoughts on Ruan</title>
+    <link>https://rebirthmonkey.github.io/tags/thoughts/</link>
+    <description>Recent content in Thoughts on Ruan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 14 Feb 2024 12:10:40 +0800</lastBuildDate>
-    <atom:link href="https://rebirthmonkey.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rebirthmonkey.github.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflections after reading &#34;What I Talk About When I Talk About Running&#34; 1: The Rhythm of Life</title>
       <link>https://rebirthmonkey.github.io/posts/2024-02-15_running1/</link>
       <pubDate>Wed, 14 Feb 2024 12:10:40 +0800</pubDate>
       <guid>https://rebirthmonkey.github.io/posts/2024-02-15_running1/</guid>
       <description>I stumbled upon Haruki Murakami&amp;rsquo;s &amp;ldquo;What I Talk About When I Talk About Running&amp;rdquo; again, where he uses running to discuss life. As he says, writing about running honestly is, in a way, writing about myself honestly. Murakami seeks to use running as a medium to organize his thoughts on spending roughly a quarter-century as both a novelist and an ordinary person.&#xA;The Purpose of Life: Writing&#xA;Murakami&amp;rsquo;s life goal is writing, and supported by running.</description>
-    </item>
-    <item>
-      <title>What did we learn from 2023?</title>
-      <link>https://rebirthmonkey.github.io/posts/2024-01-01_what-we-learn-from-2023/</link>
-      <pubDate>Mon, 01 Jan 2024 22:10:40 +0800</pubDate>
-      <guid>https://rebirthmonkey.github.io/posts/2024-01-01_what-we-learn-from-2023/</guid>
-      <description>What did we learn from 2023? What should we prepare for in 2024?&#xA;2023 was considered the worst year since the last 30 years for China. From the macroscopic viewpoint, the GDP growth rate was limited to 5.2% (the lowest since China’s “reform and opening-up”). From the micro perspective, I find that the layoffs have turned into a widespread trend which was absolutely not the case previously.&#xA;My generation is considered as the generation that reaps the benefits of the times.</description>
     </item>
   </channel>
 </rss>
