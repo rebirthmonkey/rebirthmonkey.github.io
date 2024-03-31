@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rebirthmonkey.github.io/cn/posts/</loc>
-    <lastmod>2024-03-10T12:10:40+08:00</lastmod>
+    <lastmod>2024-03-31T12:10:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://rebirthmonkey.github.io/cn/tags/</loc>
-    <lastmod>2024-03-10T12:10:40+08:00</lastmod>
+    <lastmod>2024-03-31T12:10:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://rebirthmonkey.github.io/cn/tags/thoughts/</loc>
-    <lastmod>2024-03-10T12:10:40+08:00</lastmod>
+    <lastmod>2024-03-31T12:10:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,11 +41,11 @@
                 href="https://rebirthmonkey.github.io/cn/tags/thoughts/"
                 />
   </url><url>
-    <loc>https://rebirthmonkey.github.io/cn/posts/2024-03-10_5000-days/</loc>
-    <lastmod>2024-03-10T12:10:40+08:00</lastmod>
+    <loc>https://rebirthmonkey.github.io/cn/posts/2024-03-31_naval/</loc>
+    <lastmod>2024-03-31T12:10:40+08:00</lastmod>
   </url><url>
     <loc>https://rebirthmonkey.github.io/cn/</loc>
-    <lastmod>2024-03-10T12:10:40+08:00</lastmod>
+    <lastmod>2024-03-31T12:10:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -56,6 +56,9 @@
                 hreflang="cn"
                 href="https://rebirthmonkey.github.io/cn/"
                 />
+  </url><url>
+    <loc>https://rebirthmonkey.github.io/cn/posts/2024-03-10_5000-days/</loc>
+    <lastmod>2024-03-10T12:10:40+08:00</lastmod>
   </url><url>
     <loc>https://rebirthmonkey.github.io/cn/posts/2024-02-16_running2/</loc>
     <lastmod>2024-02-15T12:10:40+08:00</lastmod>
